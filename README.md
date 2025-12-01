@@ -80,7 +80,7 @@ The demo clearly shows tool calls, memory updates, and agent interactions.
 ## 🛠️ The Build (Tools & Tech)
 
 * **Google Agent Development Kit (ADK)**
-* **Gemini Flash/Pro** for analysis, tutoring, feedback
+* **Gemini AI (gemini-2.5-flash)** for analysis, tutoring, feedback
 * **Google Search Tool** for the Analyzer Agent
 * **Custom Tools:**
 
